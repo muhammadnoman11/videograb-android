@@ -17,13 +17,30 @@
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/home.jpeg" width="24%" />
-  <img src="screenshots/quality_sheet1.jpeg" width="24%" />
-  <img src="screenshots/quality_sheet2.jpeg" width="24%" />
-  <img src="screenshots/notification.jpeg" width="24%" />
-  <img src="screenshots/downloading.jpeg" width="24%" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/home.jpeg" width="200" alt="Home Screen"/></td>
+      <td><img src="screenshots/quality_sheet1.jpeg" width="200" alt="Quality Selection 1"/></td>
+      <td><img src="screenshots/quality_sheet2.jpeg" width="200" alt="Quality Selection 2"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Home Screen</b></td>
+      <td align="center"><b>Quality Sheet 1</b></td>
+      <td align="center"><b>Quality Sheet 2</b></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/notification.jpeg" width="200" alt="Notification"/></td>
+      <td><img src="screenshots/downloading.jpeg" width="200" alt="Downloading"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Notification</b></td>
+      <td align="center"><b>Downloading</b></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### Package Structure
