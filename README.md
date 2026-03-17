@@ -18,11 +18,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.jpeg" width="24%" />
-  <img src="screenshots/quality_sheet1.jpeg" width="24%" />
-  <img src="screenshots/quality_sheet2.jpeg" width="24%" />
-  <img src="screenshots/notification.jpeg" width="24%" />
-  <img src="screenshots/downloading.jpeg" width="24%" />
+  <img src="screenshots/banner.jpeg" width="800" alt="VideoGrab App Banner"/>
 </p>
 ---
 
