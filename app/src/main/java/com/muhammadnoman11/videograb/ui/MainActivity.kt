@@ -36,11 +36,11 @@ import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.muhammadnoman11.videograb.R
 import com.muhammadnoman11.videograb.ui.viewmodel.MainViewModel
-import com.muhammadnoman11.videograb.ui.screens.DownloadsScreen
-import com.muhammadnoman11.videograb.ui.screens.HomeScreen
+import com.muhammadnoman11.videograb.ui.screens.downloads.DownloadsScreen
+import com.muhammadnoman11.videograb.ui.screens.home.HomeScreen
 import com.muhammadnoman11.videograb.ui.theme.VideoDownloaderTheme
 import dagger.hilt.android.AndroidEntryPoint
-import com.muhammadnoman11.videograb.ui.screens.PermissionHandler
+import com.muhammadnoman11.videograb.ui.screens.permissions.PermissionHandler
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {

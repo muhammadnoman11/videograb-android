@@ -1,4 +1,4 @@
-package com.muhammadnoman11.videograb.ui.screens
+package com.muhammadnoman11.videograb.ui.screens.downloads
 
 import android.widget.Toast
 import androidx.compose.foundation.BorderStroke

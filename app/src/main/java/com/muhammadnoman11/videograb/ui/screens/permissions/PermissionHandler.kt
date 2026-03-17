@@ -1,4 +1,4 @@
-package com.muhammadnoman11.videograb.ui.screens
+package com.muhammadnoman11.videograb.ui.screens.permissions
 
 import android.Manifest
 import android.content.Intent

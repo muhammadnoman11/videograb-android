@@ -1,4 +1,4 @@
-package com.muhammadnoman11.videograb.ui.screens
+package com.muhammadnoman11.videograb.ui.screens.home
 
 import androidx.compose.animation.*
 import androidx.compose.foundation.*
