@@ -18,7 +18,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/banner.jpeg" width="800" alt="VideoGrab App Banner"/>
+  <img src="screenshots/video_grab_banner.png" width="800" alt="VideoGrab App Banner"/>
 </p>
 ---
 
