@@ -75,7 +75,7 @@ com.muhammadnoman11.videograb/
 
 | Component | Library |
 |---|---|
-| yt-dlp wrapper | [junkfood02/youtubedl-android](https://github.com/JunkFood02/youtubedl-android](https://github.com/yausername/youtubedl-android) `0.18.1` |
+| yt-dlp wrapper | https://github.com/yausername/youtubedl-android |
 | UI | Jetpack Compose |
 | DI | Hilt |
 | Background work | WorkManager |
